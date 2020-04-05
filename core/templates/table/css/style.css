@@ -1,0 +1,8 @@
+thead th {
+	position: sticky;
+	top: 0;
+}
+tfoot th {
+	position: sticky;
+	bottom: 0;
+}
